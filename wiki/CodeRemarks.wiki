@@ -1,3 +1,15 @@
 #labels remarks
-=Code Changes=
+=Code Comments=
 (Comments related to the changes made between the previous and current release)
+
+Test machine specs:
+wxWidgets 2.8, PCRE 6.4 (Win32), PCRE 7 (Mac 10.4), PCRE 6.4 (Linux)
+Mac = 10.4 PPC (unicode)
+Win32 = Win XP+ (non-unicode)
+Linux = Ubuntu (unicode)
+
+Version 2.2:
+* first testing done, works perfect on Linux (Mac and Win32 coming soon)
+
+Version 2.4:
+* tested and confirmed the builds on Win32, Mac 10.4, and Linux platforms
