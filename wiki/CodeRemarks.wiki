@@ -1,4 +1,3 @@
-#labels remarks
 =Code Comments=
 (Comments related to the changes made between the previous and current release)
 
@@ -20,4 +19,5 @@ Version 2.4:
 
   * tested and confirmed the builds on Win32, Mac 10.4, and Linux platforms
 
-
+Version 3.2:
+  * implemented back reference recognition in the replacement methods
